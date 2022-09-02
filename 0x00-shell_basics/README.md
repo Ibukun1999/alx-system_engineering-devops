@@ -1,1 +1,1 @@
-script that prints the absolute path name of the current working directory
+Create a symbolic link to /bin/ls, named ls. The symbolic link should be created in the current working directory
