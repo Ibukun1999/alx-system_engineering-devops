@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir in -s /bin/ls ls
+in -s /bin/ls ls
