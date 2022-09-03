@@ -1,1 +1,1 @@
-Display the contents list of your current directory
+Write a script that prints the effective username of the current user.
